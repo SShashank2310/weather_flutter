@@ -4,4 +4,4 @@ Weather App
 
 ## Getting Started
 
-The app is available for download from the Releases Section.
+The app is available for download(Android) from the Releases Section.
